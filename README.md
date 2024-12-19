@@ -6,8 +6,8 @@
 - 👋 Hi, I’m @marwenbhriz 
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps / SRE / Cloud Computing / Golang / CI/CD
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ 
+- 📫 
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwenbhriz&show_icons=true&theme=react)](https://github.com/marwenbhriz)
 
